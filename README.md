@@ -46,7 +46,7 @@ The analysis followed these steps:
 
 ---
 
-## 4. Analysis and Findings
+## 4. Analysis and Findings ![Hospital Patients Analysis; Risk, Cost & Efficiency](Inem01.jpg)
 
 ### 4.1 Overall Performance
 
