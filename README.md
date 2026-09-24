@@ -97,7 +97,7 @@ This 292:33 split (~89.8% vs. ~10.2%) is drawn from the procedure-level cost tra
 
 Average patient satisfaction (3.60) falls short of the 4.00 target by 0.40 points, indicating an unmet service quality goal.
 
-### 4.7 Average Length of Stay by Gender
+### 4.7 Average Length of Stay by Gender ![Hospital Patients Analysis; Risk, Cost & Efficiency](Inem02.jpg)
 - Male: **~39–40 days**
 - Female: **~35–36 days**
 
